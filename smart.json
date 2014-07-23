@@ -3,6 +3,6 @@
   "description": "A simple utility library for making the web more humane.",
   "homepage": "https://github.com/Sewdn/meteor-humanize",
   "author": "Pieter Soudan",
-  "version": "0.1.0",
+  "version": "1.4.2",
   "git": "https://github.com/Sewdn/meteor-humanize.git"
 }
